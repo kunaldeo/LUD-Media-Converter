@@ -1,0 +1,7 @@
+  <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>images/webmlogo.png</file>
+     <file>images/h264logo.jpg</file>
+     <file>images/penguin.png</file>
+ </qresource>
+ </RCC>
